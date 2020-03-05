@@ -1,4 +1,4 @@
-/*--- Navigation---*/
+0/*--- Navigation---*/
 
 
 .navbar{ 
@@ -10,7 +10,8 @@
 
 }
 .navbar-brand img {
-    height: 2rem;
+    height: .5rem;
+    width: 1 rem;
 }
 .navbar-nav li {
     padding-right:.7rem ;
@@ -26,7 +27,8 @@
 
 .TinyOutletlogo{
     font-size: 100;
-    height: 25;
+    max-width: 50%;
+
 }
 
 /*--- Landing Page --*/
